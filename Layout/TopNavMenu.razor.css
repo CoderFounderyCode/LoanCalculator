@@ -1,0 +1,15 @@
+﻿.navStyle {
+    background-color: var(--ddn-theme-850);
+}
+.nav-item {
+    --bs-navbar-hover-color: var(--ddn-theme-400);
+    --bs-nav-link-hover-color: var(--ddn-theme-400);
+}
+
+.dropdown-menu{
+    background-color: var(--ddn-theme-900);
+}
+
+.dropdown:has(.nav-link.active) .dropdown-toggle {
+    color: var(--bs-navbar-active-color);
+}

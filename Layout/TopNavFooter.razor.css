@@ -1,0 +1,17 @@
+﻿.footerStyle{
+    background-color:var(--ddn-theme-850);
+
+}
+
+.footerStyle a {
+    color: var(--ddn-theme-200);
+}
+
+.footerStyle a:hover {
+    color: var(--ddn-theme-core);
+}
+
+.bi{
+    font-size:1.5rem;
+    padding-inline-start:.5rem;
+}
